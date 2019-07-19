@@ -1,0 +1,14 @@
+/workspace/exercism/csharp/acronym/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/workspace/exercism/csharp/acronym/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/workspace/exercism/csharp/acronym/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/workspace/exercism/csharp/acronym/bin/Debug/netcoreapp2.1/Acronym.deps.json
+/workspace/exercism/csharp/acronym/bin/Debug/netcoreapp2.1/Acronym.runtimeconfig.json
+/workspace/exercism/csharp/acronym/bin/Debug/netcoreapp2.1/Acronym.runtimeconfig.dev.json
+/workspace/exercism/csharp/acronym/bin/Debug/netcoreapp2.1/Acronym.dll
+/workspace/exercism/csharp/acronym/bin/Debug/netcoreapp2.1/Acronym.pdb
+/workspace/exercism/csharp/acronym/obj/Debug/netcoreapp2.1/Acronym.csprojAssemblyReference.cache
+/workspace/exercism/csharp/acronym/obj/Debug/netcoreapp2.1/Acronym.csproj.CoreCompileInputs.cache
+/workspace/exercism/csharp/acronym/obj/Debug/netcoreapp2.1/Acronym.AssemblyInfoInputs.cache
+/workspace/exercism/csharp/acronym/obj/Debug/netcoreapp2.1/Acronym.AssemblyInfo.cs
+/workspace/exercism/csharp/acronym/obj/Debug/netcoreapp2.1/Acronym.dll
+/workspace/exercism/csharp/acronym/obj/Debug/netcoreapp2.1/Acronym.pdb
