@@ -1,0 +1,61 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "test-exercism",
+            "command": "dotnet test ${workspaceFolder}/exercism/${input:testName}",
+            "type": "shell",
+            "group": "test",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                // controls whether the terminal instance is shared between task runs.
+                "panel": "shared",
+                // defines if the terminal will be closed after the execution
+                "showReuseMessage": false,
+                // defines whether to clear the terminal or not before the execution
+                "clear": true
+            }
+        },
+        {
+            "label": "dotnet-info",
+            "command": "dotnet --info",
+            "type": "shell",
+            "presentation": {
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "problemMatcher": []      
+        },
+        {
+            "label": "echo-param",
+            "type": "shell",
+            "command": "echo Hello ${input:parameter1}",
+            "problemMatcher": []
+        }
+    ],
+    "inputs": [
+        {
+            "id": "parameter1",
+            "description": "Please enter a value:",
+            "default": "World",
+            "type": "promptString"
+        },
+        {
+            "id": "testName", 
+            "description": "Please enter a test name:",
+            "type": "pickString",
+            "default": "hello-world",
+            "options": [
+                "hello-world",
+                "pangram",
+                "two-fer",
+                "isogram",
+                "acronym",
+                "leap"
+            ],
+        },
+    ]
+}
