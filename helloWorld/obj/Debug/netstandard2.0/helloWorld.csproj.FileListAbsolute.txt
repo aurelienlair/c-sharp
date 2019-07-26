@@ -1,9 +1,0 @@
-/workspace/helloWorld/bin/Debug/netstandard2.0/helloWorld.deps.json
-/workspace/helloWorld/bin/Debug/netstandard2.0/helloWorld.dll
-/workspace/helloWorld/bin/Debug/netstandard2.0/helloWorld.pdb
-/workspace/helloWorld/obj/Debug/netstandard2.0/helloWorld.csprojAssemblyReference.cache
-/workspace/helloWorld/obj/Debug/netstandard2.0/helloWorld.csproj.CoreCompileInputs.cache
-/workspace/helloWorld/obj/Debug/netstandard2.0/helloWorld.AssemblyInfoInputs.cache
-/workspace/helloWorld/obj/Debug/netstandard2.0/helloWorld.AssemblyInfo.cs
-/workspace/helloWorld/obj/Debug/netstandard2.0/helloWorld.dll
-/workspace/helloWorld/obj/Debug/netstandard2.0/helloWorld.pdb
