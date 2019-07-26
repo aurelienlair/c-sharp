@@ -1,0 +1,11 @@
+/workspace/bankAccount/obj/Debug/netcoreapp2.2/bankAccount.csprojAssemblyReference.cache
+/workspace/bankAccount/obj/Debug/netcoreapp2.2/bankAccount.csproj.CoreCompileInputs.cache
+/workspace/bankAccount/obj/Debug/netcoreapp2.2/bankAccount.AssemblyInfoInputs.cache
+/workspace/bankAccount/obj/Debug/netcoreapp2.2/bankAccount.AssemblyInfo.cs
+/workspace/bankAccount/bin/Debug/netcoreapp2.2/bankAccount.deps.json
+/workspace/bankAccount/bin/Debug/netcoreapp2.2/bankAccount.runtimeconfig.json
+/workspace/bankAccount/bin/Debug/netcoreapp2.2/bankAccount.runtimeconfig.dev.json
+/workspace/bankAccount/bin/Debug/netcoreapp2.2/bankAccount.dll
+/workspace/bankAccount/bin/Debug/netcoreapp2.2/bankAccount.pdb
+/workspace/bankAccount/obj/Debug/netcoreapp2.2/bankAccount.dll
+/workspace/bankAccount/obj/Debug/netcoreapp2.2/bankAccount.pdb
